@@ -12,7 +12,7 @@
 * **Tools & Automation:** Git/GitHub, IoT (ESP32), Keyence/Cognex Vision Systems, SolidWorks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sql,firebase,c,cpp,godot" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sqlite,firebase,c,cpp,godot" />
   </a>
 </p>
 ---
