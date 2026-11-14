@@ -15,23 +15,8 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sqlite,firebase,c,cpp,godot" />
   </a>
 </p>
----
 
-### 🚀 Featured Projects
 
-* **[Manufacturing ETL Pipeline](https://github.com/Jlarac/YOUR-REPO-NAME)**
-  * Automated Python & SQL Server pipelines to extract, transform, and load critical ERP (Macpac) data, significantly reducing reporting latency.
-* **[Production Analytics & OEE Dashboard](https://github.com/Jlarac/YOUR-REPO-NAME)**
-  * Executive Power BI dashboards and Streamlit applications for real-time monitoring of manufacturing performance and capacity planning (Clear to Build - CTB).
-* **[Deja-Station & PFMEA Tools](https://github.com/Jlarac/Deja-Station)**
-  * Desktop applications built with Python and GTK+ featuring real-time data logging, traceability, and automated notification workflows.
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jlarac&show_icons=true&theme=tokyonight" alt="Jlarac's GitHub Stats" />
-</p>
 <!--
 **Jlarac/jlarac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
