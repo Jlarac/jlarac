@@ -13,6 +13,11 @@
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Python (Pandas, NumPy, PyODBC, Streamlit), SQL, C, C++, MATLAB
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python, c, matlab" />
+  </a>
+</p>
 * **Databases & ETL:** SQL Server (SSMS), ETL Pipeline Design, Data Cleansing & Transformation
 * **BI & Visualization:** Power BI, PowerApps, Power Automate, Advanced Excel
 * **Tools & Automation:** Git/GitHub, IoT (ESP32), Keyence/Cognex Vision Systems, SolidWorks
