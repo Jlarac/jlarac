@@ -4,24 +4,17 @@
 **Data Engineer & Operations Data Analyst** with a strong background in smart manufacturing, ETL architectures, and business intelligence. I specialize in bridging the gap between physical operations and data systems by building automated pipelines, robust databases, and executive dashboards.
 
 ---
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Python (Pandas, NumPy, PyODBC, Streamlit), SQL, C, C++, MATLAB
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab" />
-  </a>
-</p>
 * **Databases & ETL:** SQL Server (SSMS), ETL Pipeline Design, Data Cleansing & Transformation
 * **BI & Visualization:** Power BI, PowerApps, Power Automate, Advanced Excel
 * **Tools & Automation:** Git/GitHub, IoT (ESP32), Keyence/Cognex Vision Systems, SolidWorks
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sql,firebase,c,cpp,godot" />
+  </a>
+</p>
 ---
 
 ### 🚀 Featured Projects
